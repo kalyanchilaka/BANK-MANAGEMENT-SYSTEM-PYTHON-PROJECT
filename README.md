@@ -2,6 +2,7 @@
 
 # Project Description
 
-Simple Bank Management System is a nice console-based application that is built-in python. Basically, this system contains a python script (main.py) and a database file in the project file. This system is a simple console-based system so it is very easy to comprehend and use. Talking about the system, it includes all the fundamental features required in a bank. There is no login system as this is a mini project. Besides, this means the user can use all those available features easily without any restrictions. It’s too simple to use, the user can inspect the records of total bank account easily.
+Bank Management System project is written in Python. The project file contains a python script (Bank_Management_System.py) and a database file. This is a simple console based system which is very easy to understand and use. Talking about the system, it contains all the basic functions which include creating a new account, view account holders record, withdraws and deposit amount, balance inquiry, exit an account and edit account details. In this mini project.
 
-Basically, this system also provides the simplest management of bank account and transaction. In brief, the main focus of these initiatives is based on CRUD. In this mini-project, for saving a user data continuously, it uses an internal database connection file
+Talking about the features of the Bank Management System, a user can create an account by providing the name, password, intial sum of the amount of the account holder,  randomly selecting account type (Saving account or Current account), IFSC Code, Gender Type(Male, Female, Others), Phone Number and providing add initial amount Then the user can also deposit and withdraw money just by providing his/her account and entering the amount. For certain purpose, he/she can also check for the balance inquiry which displays the account number and amount.
+
