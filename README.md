@@ -1,4 +1,4 @@
-`  # BANK MANAGEMENT SYSTEM PYTHON-PROJECT 
+# BANK MANAGEMENT SYSTEM PYTHON-PROJECT 
 
 # Project Description
 
@@ -8,12 +8,11 @@ Talking about the features of the Bank Management System, a user can create an a
 
 # Features Of These Project
 Basically you can have all sort of functionality which does a normal banks do have.
-open a new account
-Deposit amount
-Withdraw Amount
-Balance Enquiry
-All Account Holder List
-Close Bank Account 
-Modify Bank Account
+
+1. Create account
+2. Enter existing account
+3. Display all accounts
+4. Edit account
+5. Exit
 
 
