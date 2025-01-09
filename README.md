@@ -1,4 +1,4 @@
-# BANK MANAGEMENT SYSTEM PYTHON-PROJECT 
+`  # BANK MANAGEMENT SYSTEM PYTHON-PROJECT 
 
 # Project Description
 
@@ -6,15 +6,14 @@ Bank Management System project is written in Python. The project file contains a
 
 Talking about the features of the Bank Management System, a user can create an account by providing the name, password, intial sum of the amount of the account holder,  randomly selecting account type (Saving account or Current account), IFSC Code, Gender Type (Male, Female, Others), and Phone Number and providing add initial amount Then the user can also deposit and withdraw money just by providing his/her account and entering the amount. For certain purpose, he/she can also check for the balance inquiry which displays the account number and amount.
 
-
-Features Of These Project
+# Features Of These Project
 Basically you can have all sort of functionality which does a normal banks do have.
 open a new account
 Deposit amount
 Withdraw Amount
 Balance Enquiry
 All Account Holder List
-Close Bank Account
+Close Bank Account 
 Modify Bank Account
 
 
